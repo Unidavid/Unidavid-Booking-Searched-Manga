@@ -1,0 +1,3 @@
+TomoActual	NombreManga	Url
+9		Oshi No Ko	http://editorialivrea.com/ESP/oshinoko/index.htm
+14		Triage X	http://editorialivrea.com/ESP/triagex/index.htm	
